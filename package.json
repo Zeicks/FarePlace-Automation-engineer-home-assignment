@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.2",
+    "cypress-wait-until": "^3.0.1"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
